@@ -1,0 +1,6 @@
+{
+  "name": "Zeynep İçin Şifa Bahçesi",
+  "description": "Zeynep'in iyileşmesi için özel olarak hazırlanmış bol animasyonlu sürpriz geçmiş olsun web sitesi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
